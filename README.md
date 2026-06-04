@@ -8,38 +8,38 @@ Welcome to my personal Python coding challenge! This repository tracks my progre
 *Focus: Core syntax, loops, conditionals, basic data structures, and built-in functions.*
 
 ### 🧮 Basic Syntax & Math
-- [ ] 1. **Hello World:** Print a simple greeting to the console. 👋
-- [ ] 2. **Simple Calculator:** Perform addition, subtraction, multiplication, and division based on user input. ➕
-- [ ] 3. **Area of Shapes:** Calculate the area of a circle, rectangle, and triangle. 📐
-- [ ] 4. **Celsius to Fahrenheit:** Convert temperatures between both units seamlessly. 🌡️
-- [ ] 5. **Swap Two Variables:** Exchange values using a temporary variable and Pythonic tuple unpacking. 🔄
-- [ ] 6. **Odd or Even:** Check if a number entered by the user is odd or even. 🔢
-- [ ] 7. **Leap Year Checker:** Determine if a given year is a leap year. 📅
-- [ ] 8. **Factorial Finder:** Find the factorial of a number using loops. ✖️
-- [ ] 9. **Multiplication Table:** Generate a clean multiplication table for any user-defined number. ✖️
+- [✔️] 1. **Hello World:** Print a simple greeting to the console. 👋
+- [✔️] 2. **Simple Calculator:** Perform addition, subtraction, multiplication, and division based on user input. ➕
+- [✔️] 3. **Area of Shapes:** Calculate the area of a circle, rectangle, and triangle. 📐
+- [✔️] 4. **Celsius to Fahrenheit:** Convert temperatures between both units seamlessly. 🌡️
+- [✔️] 5. **Swap Two Variables:** Exchange values using a temporary variable and Pythonic tuple unpacking. 🔄
+- [✔️] 6. **Odd or Even:** Check if a number entered by the user is odd or even. 🔢
+- [✔️] 7. **Leap Year Checker:** Determine if a given year is a leap year. 📅
+- [✔️] 8. **Factorial Finder:** Find the factorial of a number using loops. ✖️
+- [✔️] 9. **Multiplication Table:** Generate a clean multiplication table for any user-defined number. ✖️
 
 ### ✍️ String Manipulation & Logic
-- [ ] 10. **String Reverser:** Take a string and print it backwards. ↩️
-- [ ] 11. **Palindrome Checker:** Check if a string reads the same forward and backward. 🔄
-- [ ] 12. **Vowel Counter:** Count the number of vowels in a user-provided string. 🗣️
-- [ ] 13. **Fibonacci Sequence:** Generate the first $N$ numbers in the Fibonacci sequence. 🌀
-- [ ] 14. **Prime Number Checker:** Verify if a given number is prime. 🥇
-- [ ] 15. **Armstrong Number:** Check if a number equals the sum of its own digits raised to the power of the number of digits. 🦾
-- [ ] 16. **Find Largest Number:** Find the maximum value in a user-defined list. 🔝
-- [ ] 17. **Simple Interest Calculator:** Calculate interest using the standard formula. 💰
+- [✔️] 10. **String Reverser:** Take a string and print it backwards. ↩️
+- [✔️] 11. **Palindrome Checker:** Check if a string reads the same forward and backward. 🔄
+- [✔️] 12. **Vowel Counter:** Count the number of vowels in a user-provided string. 🗣️
+- [✔️] 13. **Fibonacci Sequence:** Generate the first $N$ numbers in the Fibonacci sequence. 🌀
+- [✔️] 14. **Prime Number Checker:** Verify if a given number is prime. 🥇
+- [✔️] 15. **Armstrong Number:** Check if a number equals the sum of its own digits raised to the power of the number of digits. 🦾
+- [✔️] 16. **Find Largest Number:** Find the maximum value in a user-defined list. 🔝
+- [✔️] 17. **Simple Interest Calculator:** Calculate interest using the standard formula. 💰
 
 ### 🎮 Lists, Dicts & Games
-- [ ] 18. **List Element Sum:** Calculate the sum of all numerical items in a list. 🧮
-- [ ] 19. **Remove Duplicates:** Strip duplicate entries out of a list. 🧼
-- [ ] 20. **Count Character Occurrences:** Use a dictionary to count how often each character appears in a string. 📊
-- [ ] 21. **Anagram Checker:** Determine if two strings are anagrams of each other. 🔠
-- [ ] 22. **Rock, Paper, Scissors:** A basic console game against the computer using the `random` module. 🪨✂️📄
-- [ ] 23. **Guess the Number:** The computer picks a random number, and the user has to guess it with "higher/lower" hints. 🎯
-- [ ] 24. **Dice Rolling Simulator:** Generate a random number between 1 and 6 on command. 🎲
-- [ ] 25. **List Sorting:** Implement a basic Bubble Sort to understand sorting logic. 📈
+- [✔️] 18. **List Element Sum:** Calculate the sum of all numerical items in a list. 🧮
+- [✔️] 19. **Remove Duplicates:** Strip duplicate entries out of a list. 🧼
+- [✔️] 20. **Count Character Occurrences:** Use a dictionary to count how often each character appears in a string. 📊
+- [✔️] 21. **Anagram Checker:** Determine if two strings are anagrams of each other. 🔠
+- [✔️] 22. **Rock, Paper, Scissors:** A basic console game against the computer using the `random` module. 🪨✂️📄
+- [✔️] 23. **Guess the Number:** The computer picks a random number, and the user has to guess it with "higher/lower" hints. 🎯
+- [✔️] 24. **Dice Rolling Simulator:** Generate a random number between 1 and 6 on command. 🎲
+- [✔️] 25. **List Sorting:** Implement a basic Bubble Sort to understand sorting logic. 📈
 - [ ] 26. **Matrix Addition:** Add two 2D matrices together. 🧱
-- [ ] 27. **Common Elements Finder:** Find intersecting values between two lists. 🤝
-- [ ] 28. **Word Counter:** Count the total words inside a paragraph of text. 📝
+- [✔️] 27. **Common Elements Finder:** Find intersecting values between two lists. 🤝
+- [✔️] 28. **Word Counter:** Count the total words inside a paragraph of text. 📝
 - [ ] 29. **Leetspeak Converter:** Replace standard letters with numbers (e.g., 'e' -> '3', 'a' -> '4'). 💻
 - [ ] 30. **Digital Clock:** Print the current system time continuously in the console, refreshing every second. ⏰
 

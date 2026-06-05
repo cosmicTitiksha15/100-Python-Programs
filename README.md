@@ -37,11 +37,11 @@ Welcome to my personal Python coding challenge! This repository tracks my progre
 - [✔️] 23. **Guess the Number:** The computer picks a random number, and the user has to guess it with "higher/lower" hints. 🎯
 - [✔️] 24. **Dice Rolling Simulator:** Generate a random number between 1 and 6 on command. 🎲
 - [✔️] 25. **List Sorting:** Implement a basic Bubble Sort to understand sorting logic. 📈
-- [ ] 26. **Matrix Addition:** Add two 2D matrices together. 🧱
+- [✔️] 26. **Matrix Addition:** Add two 2D matrices together. 🧱
 - [✔️] 27. **Common Elements Finder:** Find intersecting values between two lists. 🤝
 - [✔️] 28. **Word Counter:** Count the total words inside a paragraph of text. 📝
-- [ ] 29. **Leetspeak Converter:** Replace standard letters with numbers (e.g., 'e' -> '3', 'a' -> '4'). 💻
-- [ ] 30. **Digital Clock:** Print the current system time continuously in the console, refreshing every second. ⏰
+- [✔️] 29. **Leetspeak Converter:** Replace standard letters with numbers (e.g., 'e' -> '3', 'a' -> '4'). 💻
+- [✔️] 30. **Digital Clock:** Print the current system time continuously in the console, refreshing every second. ⏰
 
 ---
 

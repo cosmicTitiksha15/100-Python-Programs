@@ -1,0 +1,4 @@
+--- Log Search Results for '['ERROR', 'CRITICAL']' ---
+
+Line 4 : 2026-06-10 12:15:45 ERROR: Database connection failed!
+Line 5 : 2026-06-10 12:20:00 CRITICAL: Out of memory. Shutting down.

@@ -53,8 +53,8 @@ Welcome to my personal Python coding challenge! This repository tracks my progre
 - [✔️] 32. **Line Counter:** Count rows, words, and characters inside an external target `.txt` file. 🧮
 - [✔️] 33. **CSV Reader & Filter:** Parse a CSV file and extract specific rows based on a criteria. 📊
 - [✔️] 34. **JSON Config Parser:** Read a configuration JSON file and update its key-value pairs dynamically. ⚙️
-- [ ] 35. **Log File Searcher:** Scan a log file for specific keywords like `"ERROR"` or `"WARNING"`. 🔍
-- [ ] 36. **Batch File Renamer:** Rename all files in a specific folder by adding a prefix or date. 🗂️
+- [✔️] 35. **Log File Searcher:** Scan a log file for specific keywords like `"ERROR"` or `"WARNING"`. 🔍
+- [✔️] 36. **Batch File Renamer:** Rename all files in a specific folder by adding a prefix or date. 🗂️
 
 ### 🏗️ Object-Oriented Programming (OOP)
 - [ ] 37. **Bank Account System:** Create a `BankAccount` class handling deposits, withdrawals, and balance tracking. 💳

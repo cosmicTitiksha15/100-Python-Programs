@@ -1,0 +1,5 @@
+2026-06-10 12:00:01 INFO: Server started successfully.
+2026-06-10 12:05:23 WARNING: High memory usage detected.
+2026-06-10 12:10:14 INFO: User 'Titiksha' logged in.
+2026-06-10 12:15:45 ERROR: Database connection failed!
+2026-06-10 12:20:00 CRITICAL: Out of memory. Shutting down.
